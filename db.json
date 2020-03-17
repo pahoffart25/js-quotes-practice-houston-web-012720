@@ -1,36 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
-      "id": 3,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Mike Tyson"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "id": 5,
-      "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
-      "author": "Dorothy Parker"
-    },
-    {
-      "id": 6,
-      "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
-      "author": "Sandra Day O'Connor"
-    },
-    {
       "id": 7,
       "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
       "author": "Benjamin Franklin"
@@ -49,17 +19,256 @@
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": 7,
+      "id": 3
+    },
+    {
+      "quoteId": 8,
+      "id": 4
+    },
+    {
+      "quoteId": 10,
+      "id": 7
+    },
+    {
+      "quoteId": 9,
+      "id": 8
+    },
+    {
+      "quoteId": 7,
+      "id": 12
+    },
+    {
+      "quoteId": 7,
+      "id": 13
+    },
+    {
+      "quoteId": 8,
+      "id": 14
+    },
+    {
+      "quoteId": 8,
+      "id": 15
+    },
+    {
+      "quoteId": 9,
+      "id": 16
+    },
+    {
+      "quoteId": 10,
+      "id": 17
+    },
+    {
+      "quoteId": 7,
+      "id": 18
+    },
+    {
+      "quoteId": 8,
+      "id": 19
+    },
+    {
+      "quoteId": 8,
+      "id": 20
+    },
+    {
+      "quoteId": 8,
+      "id": 21
+    },
+    {
+      "quoteId": 9,
+      "id": 22
+    },
+    {
+      "quoteId": 9,
+      "id": 23
+    },
+    {
+      "quoteId": 10,
+      "id": 24
+    },
+    {
+      "quoteId": 10,
+      "id": 25
+    },
+    {
+      "quoteId": 7,
+      "id": 41
+    },
+    {
+      "quoteId": 7,
+      "id": 42
+    },
+    {
+      "quoteId": 8,
+      "id": 43
+    },
+    {
+      "quoteId": 8,
+      "id": 44
+    },
+    {
+      "quoteId": 9,
+      "id": 45
+    },
+    {
+      "quoteId": 9,
+      "id": 46
+    },
+    {
+      "quoteId": 10,
+      "id": 67
+    },
+    {
+      "quoteId": 10,
+      "id": 68
+    },
+    {
+      "quoteId": 10,
+      "id": 69
+    },
+    {
+      "quoteId": 7,
+      "id": 78
+    },
+    {
+      "quoteId": 8,
+      "id": 79
+    },
+    {
+      "quoteId": 7,
+      "id": 80
+    },
+    {
+      "quoteId": 7,
+      "id": 81
+    },
+    {
+      "quoteId": 8,
+      "id": 82
+    },
+    {
+      "quoteId": 9,
+      "id": 83
+    },
+    {
+      "quoteId": 7,
+      "id": 84
+    },
+    {
+      "quoteId": 7,
+      "id": 85
+    },
+    {
+      "quoteId": 7,
+      "id": 86
+    },
+    {
+      "quoteId": 7,
+      "id": 87
+    },
+    {
+      "quoteId": 7,
+      "id": 88
+    },
+    {
+      "quoteId": 8,
+      "id": 89
+    },
+    {
+      "quoteId": 9,
+      "id": 90
+    },
+    {
+      "quoteId": 9,
+      "id": 91
+    },
+    {
+      "quoteId": 9,
+      "id": 92
+    },
+    {
+      "quoteId": 8,
+      "id": 93
+    },
+    {
+      "quoteId": 8,
+      "id": 94
+    },
+    {
+      "quoteId": 7,
+      "id": 95
+    },
+    {
+      "quoteId": 7,
+      "id": 96
+    },
+    {
+      "quoteId": 8,
+      "id": 97
+    },
+    {
+      "quoteId": 7,
+      "id": 98
+    },
+    {
+      "quoteId": 8,
+      "id": 99
+    },
+    {
+      "quoteId": 9,
+      "id": 100
+    },
+    {
+      "quoteId": 9,
+      "id": 101
+    },
+    {
+      "quoteId": 9,
+      "id": 102
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1584463654044,
+      "id": 103
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1584463654675,
+      "id": 104
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1584463655595,
+      "id": 105
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1584463655791,
+      "id": 106
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1584463657296,
+      "id": 107
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1584463657489,
+      "id": 108
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1584463658266,
+      "id": 109
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1584463658725,
+      "id": 110
     }
   ]
 }
